@@ -43,7 +43,7 @@
 
 Tableau Link
 
-
+https://public.tableau.com/app/profile/kigha.mohmbah.darel.evrard/viz/Book1_17345524267630/Customergroupsegmentation?publish=yes
 
 ### **Insights**
 
